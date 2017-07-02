@@ -10,11 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "1.17.2",
     "express": "^4.15.3",
     "express-load": "1.1.16",
-    "body-parser": "1.17.2",
     "mysql": "2.13.0",
-    "sentencer": "0.1.5",
-    "natural": "0.1.29"
+    "natural": "0.1.29",
+    "sentencer": "0.1.5"
   }
 }

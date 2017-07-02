@@ -4,5 +4,5 @@ module.exports = function(application){
 
 	application.route('/v1/words')
 	.post(word.save)
-	.get(word.lists);
+	.get(word.phrase);
 }
